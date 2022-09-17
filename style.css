@@ -1,0 +1,121 @@
+body {
+    margin: 0;
+}
+
+/* bagian latar */
+#bgcolor {
+    background-color: #222fd9;
+    width: 100%;
+    padding: 20px;
+}
+
+/* Bagian atas konten */
+.bgmain {
+    background-color: #ffffff;
+    width: 30%;
+    border-radius: 20px;
+    margin: auto;
+    text-align: center;
+}
+
+h2 {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, Arial;
+    text-align: center;
+}
+
+h4 {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, Arial;
+    font-size: 12px;
+    color: #808080;
+    text-align: center;
+    margin: 10px;
+}
+
+h3 {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, Arial;
+    font-size: 15px;
+    color: #222fd9;
+    text-align: center;
+}
+
+/* Bagian tengah */
+p {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, Arial;
+    font-size: large;
+    font-style: bold;
+    color: #808080;
+}
+
+.bgpost {
+    background-color: #e5e9fc;
+    padding: 20px 10px 20px 10px;
+    border-color: #222fd9;
+    height: 190px ;
+}
+
+.pst {
+    float: left;
+    width: 50%;
+}
+
+.rght {
+    text-align: left;
+    font-size: 12px;
+    color: #808080;
+    margin-top: 50px;
+}
+
+/* Bagian rankul */
+h1 {
+    color: #000000;
+    font-size: medium;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, Arial;
+}
+
+/* bagian iklan */
+.iklan {
+    width: 100%;
+    height: 100px;
+}
+
+h6 {
+    color: #ffffff;
+    text-align: center;
+    font-size: 10px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, Arial;
+}
+
+.insta {
+    background-color: #a4497f;
+    text-align: center;
+    float: left;
+    width: 33%;
+    height: 100px;
+    padding-top: 15px;
+}
+
+.efbe {
+    background-color: #7084d5;
+    text-align: center;
+    float: left;
+    width: 33%;
+    height: 100px;
+    padding-top: 15px;
+}
+
+.twit {
+    background-color: #99c5f6;
+    text-align: center;
+    float: left;
+    width: 34%;
+    height: 100px;
+    padding-top: 15px;
+}
+
+/* Bagian footer */
+.footer {
+    width: 100%;
+    height: 50px;
+    text-align: center;
+    padding-top: 35px;
+}
